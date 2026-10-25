@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduBridge AI — Discover Opportunities. Remove Barriers. Take Action.</title>
+  <meta name="description" content="AI-powered opportunity discovery and Barrier-to-Action Engine helping college students turn hesitation into clear, daily application progress.">
+  
+  <!-- Modern Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <!-- Accessibility Skip Link -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- Top Trust & Safety Notification Bar -->
+  <aside class="trust-bar" role="region" aria-label="Trust and Safety Notice">
+    <div class="container trust-bar-content">
+      <div class="trust-item">
+        <span class="trust-icon" aria-hidden="true">🛡️</span>
+        <span><strong>100% Privacy-First:</strong> Zero sensitive data. No Aadhaar, no bank accounts, no login required.</span>
+      </div>
+      <div class="trust-item">
+        <span class="trust-badge">Verified Directory</span>
+        <span>Curated opportunities with instant AI-guided execution</span>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main Navigation Header -->
+  <header class="site-header">
+    <div class="container header-container">
+      <div class="brand">
+        <a href="#home" class="brand-link" aria-label="EduBridge AI Home">
+          <div class="brand-icon" aria-hidden="true">
+            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="32" height="32" rx="8" fill="#00A896"/>
+              <path d="M16 6L6 12L16 18L26 12L16 6Z" fill="white"/>
+              <path d="M10 15V21C10 23 12.5 25 16 25C19.5 25 22 23 22 21V15" stroke="white" stroke-width="2" stroke-linecap="round"/>
+              <path d="M26 13V22" stroke="#F4A261" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <div class="brand-text">
+            <span class="brand-title">EduBridge <span class="ai-pill">AI</span></span>
+            <span class="brand-tagline">Barrier-to-Action Engine</span>
+          </div>
+        </a>
+      </div>
+
+      <nav class="main-nav" aria-label="Primary Navigation">
+        <ul class="nav-links">
+          <li><a href="#home" class="nav-link active">Home</a></li>
+          <li><a href="#profile-section" class="nav-link">My Profile</a></li>
+          <li><a href="#explorer-section" class="nav-link">Opportunities</a></li>
+          <li><a href="#engine-preview" class="nav-link">Barrier Engine</a></li>
+          <li>
+            <button id="nav-saved-btn" class="nav-link-btn" aria-label="View Saved Plans">
+              <span>My Plans</span>
+              <span id="saved-plans-badge" class="counter-badge">0</span>
+            </button>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <button id="demo-tour-btn" class="btn btn-accent btn-sm" aria-label="Launch Guided Demo Journey">
+          <span aria-hidden="true">🚀</span> Guided Demo
+        </button>
+        <button id="open-ai-chat-btn" class="btn btn-outline-teal btn-sm" aria-label="Open AI Assistant">
+          <span aria-hidden="true">🤖</span> AI Assistant
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Area -->
+  <main id="main-content">
+    
+    <!-- Hero Section -->
+    <section id="home" class="hero-section">
+      <div class="container hero-container">
+        <div class="hero-content">
+          <div class="hero-pill">
+            <span class="pulse-dot" aria-hidden="true"></span>
+            For Students, Working Professionals &amp; Aspiring Founders Across India
+          </div>
+          <h1 class="hero-title">
+            Discover Opportunities. <br>
+            <span class="gradient-text">Remove Barriers.</span> <br>
+            Take Action.
+          </h1>
+          <p class="hero-subtitle">
+            Whether you are a technical student (B.Tech, BCA), non-technical student (BA, B.Com, B.Sc, LLB), fresh graduate, working professional, or aspiring entrepreneur from any state—EduBridge AI surfaces verified <strong>Government and Private</strong> scholarships, internships, fellowships, jobs, courses, and seed grants, then generates a tailored action plan to eliminate your application friction.
+          </p>
+          
+          <div class="hero-cta-group">
+            <a href="#profile-section" class="btn btn-primary btn-lg" id="hero-find-path-btn">
+              <span>🎯 Find My Path</span>
+            </a>
+            <button class="btn btn-secondary btn-lg" id="hero-demo-journey-btn">
+              <span>⚡ Try Interactive Demo</span>
+            </button>
+          </div>
+
+          <div class="hero-stats">
+            <div class="stat-card">
+              <span class="stat-number">All Streams</span>
+              <span class="stat-label">Arts, Commerce, Law &amp; Tech</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-number">Govt &amp; Private</span>
+              <span class="stat-label">Corporate, NGO &amp; State</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-number">Action-Driven</span>
+              <span class="stat-label">6 Specialized Barrier Solvers</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="visual-card hero-preview-card">
+            <div class="visual-card-header">
+              <span class="badge badge-teal">The EduBridge Innovation</span>
+              <span class="live-tag">● Real-time Generator</span>
+            </div>
+            <div class="visual-problem-solution">
+              <div class="problem-box">
+                <span class="box-icon" aria-hidden="true">🛑</span>
+                <div>
+                  <strong>The Usual Problem:</strong>
+                  <p>Students see a 20-page PDF notice, get overwhelmed, and give up.</p>
+                </div>
+              </div>
+              <div class="arrow-down" aria-hidden="true">⬇️ EduBridge Barrier Engine</div>
+              <div class="solution-box">
+                <span class="box-icon" aria-hidden="true">💡</span>
+                <div>
+                  <strong>Our Dynamic Solution:</strong>
+                  <p>Pick your barrier &rarr; Get a tailored 15-minute checklist, offline text pack, or DigiLocker shortcuts.</p>
+                </div>
+              </div>
+            </div>
+            <div class="visual-barrier-pills">
+              <span class="v-pill">⚖️ Confusing Eligibility</span>
+              <span class="v-pill">📂 Missing Documents</span>
+              <span class="v-pill">⏰ Discovered Late</span>
+              <span class="v-pill">📶 Limited Internet</span>
+              <span class="v-pill">🧭 Don't Know How to Start</span>
+              <span class="v-pill">⏱️ Limited Time</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Student Profile Section -->
+    <section id="profile-section" class="profile-section">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Step 1 • Personalize</span>
+          <h2 class="section-title">Your Profile &amp; Preferences</h2>
+          <p class="section-desc">Tailor discovery to your degree, professional stage, discipline, and career goals. Saved only on your device.</p>
+        </div>
+
+        <div class="profile-card">
+          <div class="profile-grid">
+            <!-- Study Level / Role -->
+            <div class="profile-group">
+              <label for="study-level-select" class="profile-label">
+                <span class="icon" aria-hidden="true">🎓</span> Education / Role
+              </label>
+              <select id="study-level-select" class="form-select" aria-label="Select your current education or role">
+                <option value="all">All Backgrounds &amp; Roles</option>
+                <option value="1st-year" selected>1st Year Undergrad (Freshman - All Streams)</option>
+                <option value="undergrad">2nd / 3rd Year Undergrad (BA, B.Com, B.Sc, B.Tech, LLB)</option>
+                <option value="final-year">Final Year Undergrad (Graduating Soon)</option>
+                <option value="postgrad">Postgraduate / Master's (MA, M.Com, MBA, M.Sc, M.Tech)</option>
+                <option value="fresh-grad">Fresh Graduate / Entry-Level Job Seeker</option>
+                <option value="professional">Working Professional / Career Changer</option>
+                <option value="entrepreneur">Aspiring Entrepreneur / Founder</option>
+                <option value="diploma">Diploma / Polytechnic</option>
+                <option value="high-school">Intermediate / 12th Standard</option>
+              </select>
+            </div>
+
+            <!-- Discipline / Stream -->
+            <div class="profile-group">
+              <label for="stream-select" class="profile-label">
+                <span class="icon" aria-hidden="true">📚</span> Discipline / Field
+              </label>
+              <select id="stream-select" class="form-select" aria-label="Select your discipline or field of study">
+                <option value="all" selected>All Disciplines (Arts, Commerce, Tech, etc.)</option>
+                <option value="arts">Arts, Humanities &amp; Social Sciences (BA, MA)</option>
+                <option value="commerce">Commerce, Finance &amp; Accounts (B.Com, M.Com, CA)</option>
+                <option value="business">Business &amp; Management (BBA, MBA)</option>
+                <option value="law">Law, Judiciary &amp; Public Policy (LLB, LLM)</option>
+                <option value="engineering">Engineering &amp; IT (B.Tech, BE, BCA, MCA)</option>
+                <option value="science">Sciences &amp; Healthcare (B.Sc, M.Sc, MBBS)</option>
+                <option value="design">Design, Media &amp; Communications</option>
+              </select>
+            </div>
+
+            <!-- Primary Goal / Interest -->
+            <div class="profile-group">
+              <label for="interest-select" class="profile-label">
+                <span class="icon" aria-hidden="true">💡</span> Primary Career Goal
+              </label>
+              <select id="interest-select" class="form-select" aria-label="Select your primary career goal or interest">
+                <option value="all" selected>All Goals &amp; Sectors</option>
+                <option value="social-impact">Social Impact, Policy &amp; NGOs</option>
+                <option value="business">Business, Finance &amp; Corporate</option>
+                <option value="startups">Startups &amp; Entrepreneurship</option>
+                <option value="technology">Technology &amp; Software Innovation</option>
+                <option value="science">Scientific Research &amp; Academics</option>
+                <option value="humanities">Literature, Arts, Media &amp; Legal</option>
+              </select>
+            </div>
+
+            <!-- Preferred Opportunity Type -->
+            <div class="profile-group">
+              <label for="opp-type-select" class="profile-label">
+                <span class="icon" aria-hidden="true">🎯</span> Preferred Type
+              </label>
+              <select id="opp-type-select" class="form-select" aria-label="Select preferred opportunity type">
+                <option value="all" selected>All Opportunity Types</option>
+                <option value="scholarship">Scholarships (Govt &amp; Private Grants)</option>
+                <option value="internship">Internships (Corporate, Govt, NGO, Remote)</option>
+                <option value="fellowship & job">Fellowships &amp; Jobs (Full-time &amp; Leadership)</option>
+                <option value="entrepreneurship & grants">Entrepreneurship &amp; Seed Grants</option>
+                <option value="competition">Competitions &amp; Hackathons</option>
+                <option value="course">Free Certifications &amp; Courses (SWAYAM / Industry)</option>
+              </select>
+            </div>
+          </div>
+
+          <!-- Skills Checkboxes -->
+          <div class="skills-selection">
+            <span class="skills-label">Your Top Skills &amp; Strengths:</span>
+            <div class="skills-pills-wrap">
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="writing" checked>
+                <span class="skill-chip">✍️ Writing &amp; Research</span>
+              </label>
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="finance" checked>
+                <span class="skill-chip">📊 Finance &amp; Accounts</span>
+              </label>
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="problem-solving" checked>
+                <span class="skill-chip">🧠 Problem Solving &amp; Strategy</span>
+              </label>
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="leadership">
+                <span class="skill-chip">👥 Leadership &amp; Management</span>
+              </label>
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="legal-policy">
+                <span class="skill-chip">⚖️ Legal &amp; Policy</span>
+              </label>
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="coding">
+                <span class="skill-chip">💻 Coding &amp; Tech</span>
+              </label>
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="data-analysis">
+                <span class="skill-chip">📈 Data &amp; Market Analysis</span>
+              </label>
+              <label class="skill-checkbox-label">
+                <input type="checkbox" name="skill" value="marketing-outreach">
+                <span class="skill-chip">📢 Outreach &amp; Community</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="profile-footer">
+            <div class="profile-status">
+              <span class="status-indicator"></span>
+              <span id="profile-match-count">Matching with opportunities</span>
+            </div>
+            <button id="save-profile-btn" class="btn btn-teal btn-sm">Save Profile</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Opportunity Explorer Section -->
+    <section id="explorer-section" class="explorer-section">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Step 2 • Discover</span>
+          <h2 class="section-title">Opportunity Explorer</h2>
+          <p class="section-desc">Explore verified Government and Private opportunities across technical, non-technical, professional, and startup tracks.</p>
+        </div>
+
+        <!-- Filter & Search Controls -->
+        <div class="explorer-controls">
+          <div class="category-tabs" role="tablist" aria-label="Opportunity Categories">
+            <button class="cat-tab active" data-category="all" role="tab" aria-selected="true">All (<span id="count-all">14</span>)</button>
+            <button class="cat-tab" data-category="scholarship" role="tab" aria-selected="false">Scholarships</button>
+            <button class="cat-tab" data-category="internship" role="tab" aria-selected="false">Internships</button>
+            <button class="cat-tab" data-category="fellowship & job" role="tab" aria-selected="false">Fellowships &amp; Jobs</button>
+            <button class="cat-tab" data-category="entrepreneurship & grants" role="tab" aria-selected="false">Entrepreneurship</button>
+            <button class="cat-tab" data-category="competition" role="tab" aria-selected="false">Competitions</button>
+            <button class="cat-tab" data-category="course" role="tab" aria-selected="false">Courses</button>
+          </div>
+
+          <!-- Secondary Filters: Sector, Mode, Search -->
+          <div class="secondary-filters-bar">
+            <div class="filter-select-wrap">
+              <label for="sector-filter" class="visually-hidden">Filter by Sector</label>
+              <select id="sector-filter" class="form-select filter-select" aria-label="Filter by Sector">
+                <option value="all">All Sectors (Govt &amp; Private)</option>
+                <option value="government">🏛️ Government Only</option>
+                <option value="private">🏢 Private / Corporate</option>
+                <option value="ngo">🤝 NGO / Foundation</option>
+              </select>
+            </div>
+
+            <div class="filter-select-wrap">
+              <label for="mode-filter" class="visually-hidden">Filter by Work Mode</label>
+              <select id="mode-filter" class="form-select filter-select" aria-label="Filter by Mode">
+                <option value="all">All Modes (Remote &amp; On-Site)</option>
+                <option value="remote">🌐 100% Remote / Online</option>
+                <option value="hybrid">🔄 Hybrid</option>
+                <option value="on-site">📍 On-Site</option>
+              </select>
+            </div>
+
+            <div class="search-box">
+              <label for="opportunity-search" class="visually-hidden">Search opportunities</label>
+              <input type="search" id="opportunity-search" class="search-input" placeholder="Search by name, provider, skill, stream..." aria-label="Search opportunities">
+              <button id="clear-search-btn" class="clear-search-btn" aria-label="Clear search" style="display: none;">✕</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Opportunities Grid -->
+        <div id="opportunities-grid" class="opportunities-grid" aria-live="polite">
+          <!-- Populated dynamically via JS -->
+          <div class="loading-state">
+            <div class="spinner" aria-hidden="true"></div>
+            <p>Loading verified opportunities...</p>
+          </div>
+        </div>
+
+        <!-- Empty State (hidden by default) -->
+        <div id="empty-opportunities-state" class="empty-state" style="display: none;">
+          <div class="empty-icon" aria-hidden="true">🔍</div>
+          <h3>No matching opportunities found</h3>
+          <p>Try clearing your search query or selecting "All Categories".</p>
+          <button id="reset-filters-btn" class="btn btn-secondary btn-sm">Reset All Filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- How the Barrier Engine Works (Feature Showcase) -->
+    <section id="engine-preview" class="engine-info-section">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Core Innovation</span>
+          <h2 class="section-title">The Barrier-to-Action Engine</h2>
+          <p class="section-desc">Instead of giving you another boring list of deadlines, we diagnose <em>why</em> you haven't applied and create an actionable strategy to overcome that exact obstacle.</p>
+        </div>
+
+        <div class="barriers-grid">
+          <div class="barrier-card" data-barrier="confusing_eligibility">
+            <div class="barrier-icon" aria-hidden="true">⚖️</div>
+            <h3 class="barrier-name">Eligibility is confusing</h3>
+            <p class="barrier-summary">Breaks dense legalese into an interactive 3-way checklist: [Met], [Not Met], or [Unsure], with clear next steps for every unsure item.</p>
+            <span class="barrier-action-tag">&rarr; Yes/No Verification Grid</span>
+          </div>
+
+          <div class="barrier-card" data-barrier="missing_documents">
+            <div class="barrier-icon" aria-hidden="true">📂</div>
+            <h3 class="barrier-name">I don't know which documents are needed</h3>
+            <p class="barrier-summary">Shows exact certificates, issuing authorities (Tahsildar, Principal, DigiLocker), size constraints, and DigiLocker shortcuts.</p>
+            <span class="barrier-action-tag">&rarr; Paperwork Pipeline</span>
+          </div>
+
+          <div class="barrier-card" data-barrier="late_discovery">
+            <div class="barrier-icon" aria-hidden="true">⏰</div>
+            <h3 class="barrier-name">I discovered it late</h3>
+            <p class="barrier-summary">Emergency triage sprint prioritizing minimum viable submission tasks, provisional marksheets, and next-cycle reminders.</p>
+            <span class="barrier-action-tag">&rarr; Fast-Track Triage Plan</span>
+          </div>
+
+          <div class="barrier-card" data-barrier="limited_internet">
+            <div class="barrier-icon" aria-hidden="true">📶</div>
+            <h3 class="barrier-name">I have limited internet or device access</h3>
+            <p class="barrier-summary">Downloadable 100% offline text checklist (.txt) and a 15-minute Cyber-Café/College Lab upload battle plan.</p>
+            <span class="barrier-action-tag">&rarr; Offline Text Pack</span>
+          </div>
+
+          <div class="barrier-card" data-barrier="unclear_starting">
+            <div class="barrier-icon" aria-hidden="true">🧭</div>
+            <h3 class="barrier-name">I don't know how to start</h3>
+            <p class="barrier-summary">Gentle 3-phase roadmap: 10-minute zero-pressure warmup, fill-in-the-blank SOP template, and launch review.</p>
+            <span class="barrier-action-tag">&rarr; 3-Phase Starter Roadmap</span>
+          </div>
+
+          <div class="barrier-card" data-barrier="limited_time">
+            <div class="barrier-icon" aria-hidden="true">⏱️</div>
+            <h3 class="barrier-name">I have limited time</h3>
+            <p class="barrier-summary">Time-boxes the application into four 10-15 minute micro-sprints with an interactive focus timer on the page.</p>
+            <span class="barrier-action-tag">&rarr; 15-Min Micro-Sprints</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============================================================ -->
+  <!-- MODAL: Barrier-to-Action Engine (Dynamic Plan Generator)     -->
+  <!-- ============================================================ -->
+  <dialog id="barrier-engine-modal" class="app-modal" aria-labelledby="engine-modal-title">
+    <div class="modal-dialog-content">
+      <header class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="badge badge-accent" id="engine-modal-badge">Barrier-to-Action Engine</span>
+          <h2 id="engine-modal-title" class="modal-title">Create Your Action Plan</h2>
+          <p id="engine-modal-subtitle" class="modal-subtitle">Opportunity: Reliance Foundation Undergraduate Scholarship</p>
+        </div>
+        <button id="close-engine-modal-btn" class="close-modal-btn" aria-label="Close action plan modal">✕</button>
+      </header>
+
+      <!-- View A: Select Barrier -->
+      <div id="barrier-selection-view" class="modal-body">
+        <div class="barrier-prompt-banner">
+          <h3>What is currently stopping you from applying?</h3>
+          <p>Select your biggest barrier. We will generate a tailored action plan specifically designed to remove it.</p>
+        </div>
+
+        <div class="barrier-options-list" role="radiogroup" aria-label="Select your barrier">
+          <!-- 6 Barrier radio-like cards -->
+          <div class="barrier-select-option" data-barrier-id="confusing_eligibility" role="radio" aria-checked="false" tabindex="0">
+            <div class="b-opt-icon" aria-hidden="true">⚖️</div>
+            <div class="b-opt-content">
+              <h4>Eligibility is confusing</h4>
+              <p>I don't understand the percentage formulas, criteria rules, or whether my college/branch is included.</p>
+            </div>
+            <span class="b-opt-arrow" aria-hidden="true">&rarr;</span>
+          </div>
+
+          <div class="barrier-select-option" data-barrier-id="missing_documents" role="radio" aria-checked="false" tabindex="0">
+            <div class="b-opt-icon" aria-hidden="true">📂</div>
+            <div class="b-opt-content">
+              <h4>I don't know which documents are needed</h4>
+              <p>I don't know what certificates are mandatory, how to get bonafides, or where to scan them.</p>
+            </div>
+            <span class="b-opt-arrow" aria-hidden="true">&rarr;</span>
+          </div>
+
+          <div class="barrier-select-option" data-barrier-id="late_discovery" role="radio" aria-checked="false" tabindex="0">
+            <div class="b-opt-icon" aria-hidden="true">⏰</div>
+            <div class="b-opt-content">
+              <h4>I discovered it late</h4>
+              <p>The deadline is approaching fast and I feel it's too late to finish the application.</p>
+            </div>
+            <span class="b-opt-arrow" aria-hidden="true">&rarr;</span>
+          </div>
+
+          <div class="barrier-select-option" data-barrier-id="limited_internet" role="radio" aria-checked="false" tabindex="0">
+            <div class="b-opt-icon" aria-hidden="true">📶</div>
+            <div class="b-opt-content">
+              <h4>I have limited internet or device access</h4>
+              <p>I have poor mobile connectivity, limited data, or I share a device and need an offline method.</p>
+            </div>
+            <span class="b-opt-arrow" aria-hidden="true">&rarr;</span>
+          </div>
+
+          <div class="barrier-select-option" data-barrier-id="unclear_starting" role="radio" aria-checked="false" tabindex="0">
+            <div class="b-opt-icon" aria-hidden="true">🧭</div>
+            <div class="b-opt-content">
+              <h4>I don't know how to start</h4>
+              <p>The form is huge, I don't know how to write the essay, and I feel overwhelmed by the portal.</p>
+            </div>
+            <span class="b-opt-arrow" aria-hidden="true">&rarr;</span>
+          </div>
+
+          <div class="barrier-select-option" data-barrier-id="limited_time" role="radio" aria-checked="false" tabindex="0">
+            <div class="b-opt-icon" aria-hidden="true">⏱️</div>
+            <div class="b-opt-content">
+              <h4>I have limited time</h4>
+              <p>I am buried in semester exams, lab records, and classes and can't find continuous hours to sit.</p>
+            </div>
+            <span class="b-opt-arrow" aria-hidden="true">&rarr;</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- View B: Generated Action Plan -->
+      <div id="barrier-plan-view" class="modal-body" style="display: none;">
+        <!-- Top Action Plan Header & Progress -->
+        <div class="plan-header-card">
+          <div class="plan-header-main">
+            <div class="plan-badge-group">
+              <span id="active-barrier-badge" class="badge badge-teal">⚖️ Eligibility is confusing</span>
+              <span id="plan-deadline-pill" class="pill pill-warning">Deadline: Nov 20, 2026</span>
+            </div>
+            <h3 id="plan-headline">Eligibility Clarity &amp; Verification Roadmap</h3>
+            <p id="plan-summary-text">Review the criteria below to clarify whether you are eligible.</p>
+          </div>
+
+          <!-- Progress Bar & Actions -->
+          <div class="plan-progress-box">
+            <div class="progress-info">
+              <span>Your Action Progress:</span>
+              <strong id="plan-progress-text">0 / 4 completed (0%)</strong>
+            </div>
+            <div class="progress-bar-track" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+              <div id="plan-progress-fill" class="progress-bar-fill" style="width: 0%;"></div>
+            </div>
+            <div class="plan-ctrl-buttons">
+              <button id="switch-barrier-btn" class="btn btn-outline-navy btn-xs">🔄 Switch Barrier</button>
+              <button id="save-current-plan-btn" class="btn btn-teal btn-xs">💾 Save Progress</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Dynamic Plan Content Container (Injected by engine.js) -->
+        <div id="dynamic-plan-container" class="dynamic-plan-content">
+          <!-- Populated dynamically based on barrier -->
+        </div>
+
+        <!-- Trust & Official Action Footer -->
+        <div class="plan-footer-box">
+          <div class="official-cta-wrap">
+            <a id="plan-official-link" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+              <span>Go to Official Application Portal ↗</span>
+            </a>
+            <button id="ask-ai-from-plan-btn" class="btn btn-outline-teal">
+              <span>💬 Ask AI Questions About This</span>
+            </button>
+          </div>
+          <p class="trust-disclaimer">
+            ℹ️ <strong>Official Notice:</strong> EduBridge AI provides structure and task checklists to help you apply. We never guarantee eligibility or selection. All official submissions must be made through the verified portal linked above.
+          </p>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- ============================================================ -->
+  <!-- MODAL / DRAWER: Saved Plans & Local Progress Tracker         -->
+  <!-- ============================================================ -->
+  <dialog id="saved-plans-modal" class="app-modal" aria-labelledby="saved-modal-title">
+    <div class="modal-dialog-content">
+      <header class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="badge badge-teal">Stored in LocalStorage</span>
+          <h2 id="saved-modal-title" class="modal-title">My Action Plans &amp; Progress</h2>
+          <p class="modal-subtitle">Your active checklists and saved opportunities. Return anytime!</p>
+        </div>
+        <button id="close-saved-modal-btn" class="close-modal-btn" aria-label="Close saved plans modal">✕</button>
+      </header>
+
+      <div class="modal-body">
+        <!-- Overall Progress Card -->
+        <div class="overall-progress-card">
+          <div class="progress-metric">
+            <span class="metric-num" id="total-saved-count">0</span>
+            <span class="metric-label">Saved Plans</span>
+          </div>
+          <div class="progress-metric">
+            <span class="metric-num" id="total-tasks-completed-count">0</span>
+            <span class="metric-label">Tasks Completed</span>
+          </div>
+          <div class="progress-metric">
+            <span class="metric-num" id="overall-completion-rate">0%</span>
+            <span class="metric-label">Completion Rate</span>
+          </div>
+        </div>
+
+        <!-- Saved Plans List -->
+        <div id="saved-plans-list" class="saved-plans-list" aria-live="polite">
+          <!-- Injected dynamically via storage.js -->
+        </div>
+
+        <!-- Empty Saved Plans State -->
+        <div id="empty-saved-state" class="empty-state" style="display: none;">
+          <div class="empty-icon" aria-hidden="true">📋</div>
+          <h3>No saved plans yet</h3>
+          <p>Select any opportunity in the Explorer and choose a barrier to start tracking your action plan!</p>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- ============================================================ -->
+  <!-- MODAL / DRAWER: AI Opportunity Advisor                       -->
+  <!-- ============================================================ -->
+  <dialog id="ai-assistant-modal" class="app-modal" aria-labelledby="ai-modal-title">
+    <div class="modal-dialog-content chat-dialog">
+      <header class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="badge badge-accent">AI Opportunity Advisor</span>
+          <h2 id="ai-modal-title" class="modal-title">EduBridge AI Assistant</h2>
+          <p id="ai-current-opp-label" class="modal-subtitle">Ask anything about eligibility criteria, required documents, or deadlines.</p>
+        </div>
+        <button id="close-ai-modal-btn" class="close-modal-btn" aria-label="Close AI assistant modal">✕</button>
+      </header>
+
+      <div class="modal-body chat-body">
+        <!-- Engine Status -->
+        <div class="chat-top-bar">
+          <span id="ai-engine-source-pill" class="badge badge-teal">Verified Knowledge Base</span>
+        </div>
+
+        <!-- Preset 1-Click Questions -->
+        <div class="preset-questions-section">
+          <span class="preset-label">Quick Questions:</span>
+          <div id="preset-questions-wrap" class="preset-chips-wrap">
+            <button class="preset-chip" data-q="Can non-technical students apply?">Can non-technical students apply?</button>
+            <button class="preset-chip" data-q="What are the government vs private opportunities?">Govt vs Private Opportunities</button>
+            <button class="preset-chip" data-q="Which internships offer paid stipends?">Paid &amp; Remote Stipends</button>
+            <button class="preset-chip" data-q="Can working professionals apply?">Working Professionals &amp; Grads</button>
+            <button class="preset-chip" data-q="Are there grants for startups?">Startup Seed Grants</button>
+          </div>
+        </div>
+
+        <!-- Chat Stream Messages -->
+        <div id="chat-messages-container" class="chat-messages-container" aria-live="polite">
+          <div class="chat-message bot-message">
+            <div class="chat-avatar" aria-hidden="true">🤖</div>
+            <div class="chat-bubble">
+              <p>Hello! I am your EduBridge advisor. I help students, graduates, and professionals discover and apply for scholarships, internships, and opportunities without bureaucratic jargon.</p>
+              <p class="chat-note">🛡️ <em>Remember: I never ask for your Aadhaar, bank details, or passwords.</em></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chat Input Form -->
+        <form id="ai-chat-form" class="chat-input-form" onsubmit="return false;">
+          <label for="ai-user-query" class="visually-hidden">Ask a question about this opportunity</label>
+          <input type="text" id="ai-user-query" class="chat-input" placeholder="Ask about eligibility, income limits, paperwork, stipends..." autocomplete="off" aria-label="Ask AI Assistant">
+          <button type="submit" id="send-ai-query-btn" class="btn btn-primary btn-chat-send" aria-label="Send message">
+            <span>Send &rarr;</span>
+          </button>
+        </form>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- ============================================================ -->
+  <!-- MODAL: Guided Demo Journey Tour (Prompt Scenario Walkthrough)-->
+  <!-- ============================================================ -->
+  <dialog id="demo-tour-modal" class="app-modal" aria-labelledby="tour-modal-title">
+    <div class="modal-dialog-content">
+      <header class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="badge badge-accent">🚀 Hackathon Interactive Demo</span>
+          <h2 id="tour-modal-title" class="modal-title">Guided Demo Journey</h2>
+          <p class="modal-subtitle">Experience how EduBridge AI solves real student friction in 3 quick steps.</p>
+        </div>
+        <button id="close-tour-modal-btn" class="close-modal-btn" aria-label="Close demo walkthrough modal">✕</button>
+      </header>
+
+      <div class="modal-body tour-body">
+        <div class="tour-stepper">
+          <div class="tour-step active" id="tstep-1">
+            <span class="tstep-num">1</span>
+            <span class="tstep-label">Select Opportunity</span>
+          </div>
+          <div class="tour-step" id="tstep-2">
+            <span class="tstep-num">2</span>
+            <span class="tstep-label">Barrier 1: Confusing Eligibility</span>
+          </div>
+          <div class="tour-step" id="tstep-3">
+            <span class="tstep-num">3</span>
+            <span class="tstep-label">Barrier 2: Limited Internet</span>
+          </div>
+        </div>
+
+        <div id="tour-step-content" class="tour-step-content">
+          <!-- Step 1 content -->
+          <div class="tour-card" id="tour-card-1">
+            <h3>Step 1: College Student Discovers an Opportunity</h3>
+            <p>Our student, Priya, is in 1st year B.Tech. She wants to apply for the <strong>Reliance Foundation Undergraduate Scholarship</strong> (₹2,00,000 award), but she hesitated because government/corporate notices are dense and intimidating.</p>
+            <div class="tour-actions">
+              <button id="tour-to-step-2-btn" class="btn btn-primary">
+                Select Opportunity &amp; Choose "Eligibility is Confusing" &rarr;
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Toast Notification Container -->
+  <div id="toast-container" class="toast-container" aria-live="assertive"></div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-content">
+      <div class="footer-brand">
+        <span class="brand-title">EduBridge <span class="ai-pill">AI</span></span>
+        <p>Discover Opportunities. Remove Barriers. Take Action.</p>
+        <p class="footer-sub">Built for College Students • Free &amp; Open Access • Privacy-First</p>
+      </div>
+
+      <div class="footer-links">
+        <div class="f-col">
+          <h4>Barrier Solvers</h4>
+          <ul>
+            <li><a href="#engine-preview">Eligibility Clarity</a></li>
+            <li><a href="#engine-preview">Document Pipeline</a></li>
+            <li><a href="#engine-preview">Late Discovery Triage</a></li>
+            <li><a href="#engine-preview">Offline Text Pack</a></li>
+          </ul>
+        </div>
+        <div class="f-col">
+          <h4>Opportunity Support</h4>
+          <ul>
+            <li><span>Simple English Explanations</span></li>
+            <li><span>Eligibility &amp; Document Roadmaps</span></li>
+            <li><span>State Portals &amp; DigiLocker Tips</span></li>
+            <li><span>Cyber-Café &amp; Offline Battle Plan</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <p>&copy; 2026 EduBridge AI. Hackathon Project. All opportunity sample data verified against public notifications.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="/static/js/storage.js"></script>
+  <script src="/static/js/engine.js"></script>
+  <script src="/static/js/assistant.js"></script>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

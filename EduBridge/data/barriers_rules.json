@@ -1,0 +1,62 @@
+{
+  "barriers": [
+    {
+      "id": "confusing_eligibility",
+      "icon": "⚖️",
+      "title": "Eligibility is confusing",
+      "tagline": "Break complex government/corporate criteria into a simple yes/no personal checklist.",
+      "description": "Legalese and complex percentiles make you wonder if you qualify. Let's verify every condition line-by-line so you never miss out on self-doubt.",
+      "action_type": "eligibility_checklist",
+      "color": "#028090"
+    },
+    {
+      "id": "missing_documents",
+      "icon": "📂",
+      "title": "I don't know which documents are needed",
+      "tagline": "Get an exact document prep roadmap with issuing offices, DigiLocker shortcuts, and file guidelines.",
+      "description": "Don't get disqualified by missing certificates. See the exact paperwork needed, where to obtain it, and track what you've collected.",
+      "action_type": "document_roadmap",
+      "color": "#00A896"
+    },
+    {
+      "id": "late_discovery",
+      "icon": "⏰",
+      "title": "I discovered it late",
+      "tagline": "Triage your application with a fast-track MVP submission checklist and cycle reminders.",
+      "description": "Deadline in a few days? Don't panic. Focus strictly on minimum viable submission tasks and set automated alerts for future cycles.",
+      "action_type": "triage_fasttrack",
+      "color": "#E76F51"
+    },
+    {
+      "id": "limited_internet",
+      "icon": "📶",
+      "title": "I have limited internet or device access",
+      "tagline": "Download a 100% offline printable text guide and use the 15-minute Cyber-Café battle plan.",
+      "description": "Spotty Wi-Fi, low mobile data, or sharing a phone? Draft everything offline on paper/phone, then upload in one quick 15-minute session.",
+      "action_type": "offline_pack",
+      "color": "#F4A261"
+    },
+    {
+      "id": "unclear_starting",
+      "icon": "🧭",
+      "title": "I don't know how to start",
+      "tagline": "Overcome the blank page with a 3-phase micro-roadmap and ready-to-use essay templates.",
+      "description": "Big application portals feel intimidating. We break the entire process into zero-pressure 10-minute micro-steps with starter drafts.",
+      "action_type": "starter_roadmap",
+      "color": "#1E3E62"
+    },
+    {
+      "id": "limited_time",
+      "icon": "⏱️",
+      "title": "I have limited time",
+      "tagline": "Time-box your application into four 10-to-15 minute micro-sprints with a built-in focus timer.",
+      "description": "Juggling college classes, exams, or family work? Complete your application in small 10-minute bursts over 3 days without burning out.",
+      "action_type": "timebox_sprints",
+      "color": "#264653"
+    }
+  ],
+  "common_guidance": {
+    "trust_notice": "EduBridge AI helps you organize your application steps. We never guarantee selection or eligibility. Always confirm final requirements on the official provider portal.",
+    "privacy_promise": "All data stays stored inside your browser localStorage. No sensitive Aadhaar or bank information is ever requested or transmitted."
+  }
+}

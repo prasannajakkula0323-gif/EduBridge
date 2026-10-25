@@ -1,0 +1,1365 @@
+[
+  {
+    "id": "reliance-ug-scholarship",
+    "title": "Reliance Foundation Undergraduate & Postgraduate Scholarship 2026-27",
+    "category": "Scholarship",
+    "sector": "Private / Corporate",
+    "mode": "Remote / Online Application",
+    "funding_type": "Paid Grant (Up to ₹2,00,000 - ₹6,00,000)",
+    "provider": "Reliance Foundation",
+    "award_summary": "Up to ₹2,00,000 (UG) and ₹6,00,000 (PG) across any degree stream + leadership workshops",
+    "deadline": "2026-11-20",
+    "deadline_display": "November 20, 2026",
+    "days_left": 26,
+    "verified_source": "Reliance Foundation Official Education Portal",
+    "official_url": "https://www.scholarships.reliancefoundation.org",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Moderate",
+    "est_completion_time": "45 mins",
+    "target_levels": [
+      "1st-year",
+      "undergrad",
+      "postgrad"
+    ],
+    "target_streams": [
+      "all",
+      "arts",
+      "commerce",
+      "science",
+      "engineering",
+      "law",
+      "business"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad"
+    ],
+    "target_interests": [
+      "technology",
+      "business",
+      "science",
+      "social-impact",
+      "design",
+      "humanities"
+    ],
+    "target_skills": [
+      "problem-solving",
+      "writing",
+      "leadership",
+      "finance"
+    ],
+    "summary": "Premier private corporate merit-cum-means scholarship supporting 5,000 undergraduate and postgraduate students from ANY stream (BA, B.Com, B.Sc, B.Tech, LLB, MBA) with financial aid and alumni mentorship.",
+    "eligibility_criteria": [
+      {
+        "id": "rel_c1",
+        "text": "Resident citizen of India enrolled full-time in 1st year of any recognized UG or PG degree (Arts, Commerce, Science, Law, Engg).",
+        "simple_en": "You must be an Indian citizen in your first year of any college degree (BA, B.Com, B.Sc, B.Tech, LLB, etc.)."
+      },
+      {
+        "id": "rel_c2",
+        "text": "Passed Class 12 or qualifying UG exam with minimum 60% aggregate marks.",
+        "simple_en": "Your previous qualifying total marks must be 60% or higher."
+      },
+      {
+        "id": "rel_c3",
+        "text": "Annual household income up to ₹15 Lakhs (preference given to < ₹2.5 Lakhs).",
+        "simple_en": "Your total family income from all sources must be less than ₹15 Lakhs per year. Priority is given to students below ₹2.5 Lakhs."
+      },
+      {
+        "id": "rel_c4",
+        "text": "Must complete mandatory online aptitude assessment (60 mins).",
+        "simple_en": "You will need to take a simple online multiple-choice quiz covering basic logic and verbal skills."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "rel_d1",
+        "name": "Class 12 / UG Marksheet",
+        "issuer": "State Board / CBSE / University",
+        "format": "PDF/JPG under 2MB",
+        "tips": "DigiLocker verified marksheets are accepted if physical certificate is delayed.",
+        "urgent": true
+      },
+      {
+        "id": "rel_d2",
+        "name": "College Admission Proof / Fee Receipt",
+        "issuer": "Your current college/university administration",
+        "format": "Fee receipt or student ID or bonafide certificate",
+        "tips": "Must clearly show your student name, roll number, and 1st year admission confirmation.",
+        "urgent": true
+      },
+      {
+        "id": "rel_d3",
+        "name": "Family Income Certificate / ITR",
+        "issuer": "Tahsildar / Revenue Department / Form 16",
+        "format": "Valid certificate issued within last 12 months",
+        "tips": "If your parents do not have ITR, get an official income certificate from your local e-District / Tahsildar / Revenue / MeeSeva office.",
+        "urgent": false
+      },
+      {
+        "id": "rel_d4",
+        "name": "Passport Size Photograph & Signature",
+        "issuer": "Self (Scanned via phone)",
+        "format": "JPG under 200KB",
+        "tips": "Take a photo against a plain white wall and crop neatly.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can B.Com, BA, or non-technical students apply?",
+        "a": "Yes! Reliance Foundation UG Scholarship welcomes students from all streams including Arts, Commerce, Humanities, Science, Law, and Engineering."
+      },
+      {
+        "q": "Can 2nd or 3rd year students apply?",
+        "a": "No, this specific scheme is only open to students currently in their 1st year of undergrad or postgrad studies."
+      }
+    ]
+  },
+  {
+    "id": "niti-aayog-internship",
+    "title": "NITI Aayog Official Government Internship Scheme",
+    "category": "Internship",
+    "sector": "Government",
+    "mode": "On-Site / Hybrid (New Delhi)",
+    "funding_type": "Official Govt Experience Certificate & Network",
+    "provider": "NITI Aayog (National Institution for Transforming India, Govt of India)",
+    "award_summary": "Prestigious Union Govt Experience Certificate + Policy Exposure across 25+ Verticals",
+    "deadline": "2026-11-10",
+    "deadline_display": "Window opens 1st to 10th of every month",
+    "days_left": 16,
+    "verified_source": "NITI Aayog Official Portal",
+    "official_url": "https://www.niti.gov.in/internship",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Moderate",
+    "est_completion_time": "30 mins",
+    "target_levels": [
+      "undergrad",
+      "final-year",
+      "postgrad",
+      "career-changer",
+      "professional"
+    ],
+    "target_streams": [
+      "all",
+      "arts",
+      "commerce",
+      "law",
+      "science",
+      "engineering",
+      "business"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad",
+      "professional"
+    ],
+    "target_interests": [
+      "social-impact",
+      "business",
+      "science",
+      "technology",
+      "humanities",
+      "law"
+    ],
+    "target_skills": [
+      "writing",
+      "problem-solving",
+      "data-analysis",
+      "legal-policy",
+      "leadership"
+    ],
+    "summary": "Flagship government internship open to students and researchers of ALL disciplines (Law, Economics, Sociology, Commerce, Public Policy, Management, Tech) to work directly on national development policies.",
+    "eligibility_criteria": [
+      {
+        "id": "niti_c1",
+        "text": "Undergraduate students having completed 2nd year with minimum 70% marks, OR Post-graduate / Research scholars with 60% marks.",
+        "simple_en": "You should have completed at least 2 years of your degree (BA, B.Com, B.Sc, B.Tech, LLB, etc.) with 70%+ marks, or be enrolled in PG."
+      },
+      {
+        "id": "niti_c2",
+        "text": "Open to all disciplines: Economics, Law, Commerce, Social Sciences, Management, Science, and Technology.",
+        "simple_en": "Students from non-technical and technical backgrounds alike are strongly encouraged."
+      },
+      {
+        "id": "niti_c3",
+        "text": "Must commit to internship duration of minimum 6 weeks up to 6 months.",
+        "simple_en": "You must be available to work with NITI Aayog vertical teams for at least 6 weeks."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "niti_d1",
+        "name": "NOC / Recommendation Letter from Head of Department or Principal",
+        "issuer": "College Dean / Principal / Registrar",
+        "format": "Prescribed NITI Aayog format on official letterhead",
+        "tips": "Download the standard NOC format from NITI Aayog website and get it stamped in advance.",
+        "urgent": true
+      },
+      {
+        "id": "niti_d2",
+        "name": "Consolidated Academic Marksheets",
+        "issuer": "University Examination Authority",
+        "format": "PDF under 2MB",
+        "tips": "Ensure marks or CGPA conversion formula is clearly visible.",
+        "urgent": true
+      },
+      {
+        "id": "niti_d3",
+        "name": "Domain Area of Interest Statement (150 words)",
+        "issuer": "Written by you",
+        "format": "Text entered in online portal",
+        "tips": "Pick your vertical (e.g. Agriculture, Education, Health, Public-Private Partnership, or Governance).",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can Arts, Commerce, or Law students apply for NITI Aayog?",
+        "a": "Yes! In fact, the majority of NITI Aayog verticals (Education, Health, Governance, Law & Justice, Agriculture) specifically look for Arts, Law, Commerce, and Economics students."
+      }
+    ]
+  },
+  {
+    "id": "rbi-summer-internship",
+    "title": "Reserve Bank of India (RBI) Summer Internship Programme",
+    "category": "Internship",
+    "sector": "Government / Central Bank",
+    "mode": "On-Site (Zonal / Regional RBI Offices)",
+    "funding_type": "Paid Stipend (₹20,000 per month)",
+    "provider": "Reserve Bank of India (RBI)",
+    "award_summary": "₹20,000/month stipend + RBI Central Banking Project Experience",
+    "deadline": "2026-12-15",
+    "deadline_display": "December 15, 2026",
+    "days_left": 51,
+    "verified_source": "RBI Opportunities Portal",
+    "official_url": "https://opportunities.rbi.org.in",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Challenging",
+    "est_completion_time": "45 mins",
+    "target_levels": [
+      "undergrad",
+      "postgrad",
+      "final-year"
+    ],
+    "target_streams": [
+      "commerce",
+      "arts",
+      "business",
+      "law",
+      "science",
+      "engineering"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad"
+    ],
+    "target_interests": [
+      "business",
+      "finance",
+      "economics",
+      "social-impact",
+      "data-analysis"
+    ],
+    "target_skills": [
+      "finance",
+      "writing",
+      "data-analysis",
+      "problem-solving"
+    ],
+    "summary": "Premier paid central banking internship designed for students of Economics, Commerce, Finance, Management, Law, and allied disciplines to research macroeconomic trends.",
+    "eligibility_criteria": [
+      {
+        "id": "rbi_c1",
+        "text": "Post-graduate students in Economics, Finance, Commerce, Management, Law, or 5-year integrated law / master's degree.",
+        "simple_en": "You must be studying Economics, Banking, Commerce, Management, Law, or related PG courses."
+      },
+      {
+        "id": "rbi_c2",
+        "text": "Final year or pre-final year students with high academic standing.",
+        "simple_en": "You must be currently enrolled in your pre-final or final year of postgraduate study."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "rbi_d1",
+        "name": "College Recommendation & Bonafide Letter",
+        "issuer": "University Head of Department",
+        "format": "Signed sealed letter PDF",
+        "tips": "Request your HOD 1 week before the deadline.",
+        "urgent": true
+      },
+      {
+        "id": "rbi_d2",
+        "name": "Statement of Interest in Banking / Monetary Policy",
+        "issuer": "Applicant prepared",
+        "format": "1-page PDF",
+        "tips": "Highlight banking reforms, financial inclusion, or digital payments trends in India.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is this only for economists?",
+        "a": "No. Students from Commerce (M.Com), Law (LLM/integrated law), Business Administration (MBA), and Data/Statistics are equally eligible."
+      }
+    ]
+  },
+  {
+    "id": "teach-for-india-fellowship",
+    "title": "Teach For India (TFI) 2-Year Leadership Fellowship",
+    "category": "Fellowship & Job",
+    "sector": "NGO / Foundation",
+    "mode": "On-Site (Metro / Urban Cities across India)",
+    "funding_type": "Paid Salary (₹23,040/month + Housing Allowance & Health Cover)",
+    "provider": "Teach For India Foundation",
+    "award_summary": "₹23,040/mo salary + HRA up to ₹10,000/mo + Post-fellowship career recruitment with top firms",
+    "deadline": "2026-12-05",
+    "deadline_display": "December 5, 2026 (Round 2 Window)",
+    "days_left": 41,
+    "verified_source": "Teach For India Official Portal",
+    "official_url": "https://www.teachforindia.org/fellowship",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Moderate",
+    "est_completion_time": "40 mins",
+    "target_levels": [
+      "final-year",
+      "postgrad",
+      "fresh-grad",
+      "professional",
+      "career-changer"
+    ],
+    "target_streams": [
+      "all",
+      "arts",
+      "commerce",
+      "science",
+      "engineering",
+      "law",
+      "humanities"
+    ],
+    "target_roles": [
+      "fresh-grad",
+      "professional",
+      "career-changer"
+    ],
+    "target_interests": [
+      "social-impact",
+      "leadership",
+      "humanities",
+      "business",
+      "education"
+    ],
+    "target_skills": [
+      "leadership",
+      "writing",
+      "problem-solving",
+      "marketing-outreach"
+    ],
+    "summary": "Transformative 2-year full-time leadership programme for graduates and working professionals from ALL academic disciplines to teach in high-need classrooms and drive educational equity.",
+    "eligibility_criteria": [
+      {
+        "id": "tfi_c1",
+        "text": "Completed Bachelor's degree in any discipline (BA, B.Com, B.Sc, B.Tech, etc.) or graduating by June 2027.",
+        "simple_en": "You must hold a college degree in any subject or be in your final year of graduation."
+      },
+      {
+        "id": "tfi_c2",
+        "text": "Indian citizen or Overseas Citizen of India (OCI).",
+        "simple_en": "Open to Indian citizens passionate about national social impact."
+      },
+      {
+        "id": "tfi_c3",
+        "text": "Strong English communication and willingness to commit to a 2-year full-time placement.",
+        "simple_en": "Full-time 2-year paid commitment with living allowance and teacher training."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "tfi_d1",
+        "name": "Updated Resume / CV",
+        "issuer": "Created by you",
+        "format": "PDF under 2MB",
+        "tips": "Emphasize volunteer work, college leadership roles, or work experience.",
+        "urgent": true
+      },
+      {
+        "id": "tfi_d2",
+        "name": "Degree Certificate / Final Year Bonafide",
+        "issuer": "Your University",
+        "format": "Scanned copy",
+        "tips": "Provisional certificate or pre-final marksheet is acceptable for final year applicants.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can working professionals and career changers apply?",
+        "a": "Yes! Approximately 30-40% of TFI Fellows are working professionals transitioning into public policy, consulting, non-profit leadership, or CSR."
+      }
+    ]
+  },
+  {
+    "id": "startup-india-seed-fund",
+    "title": "Startup India Seed Fund Scheme (SISFS) & NIDHI-EIR",
+    "category": "Entrepreneurship & Grants",
+    "sector": "Government / Incubation",
+    "mode": "Hybrid / Pan-India Approved Incubators",
+    "funding_type": "Seed Grant / Funding (Up to ₹20,00,000 - ₹50,00,000)",
+    "provider": "Department for Promotion of Industry and Internal Trade (DPIIT), Govt of India",
+    "award_summary": "Up to ₹20 Lakhs grant for proof-of-concept + Up to ₹50 Lakhs debt/convertible debenture",
+    "deadline": "2026-12-31",
+    "deadline_display": "Open Round-the-Year (Quarterly Incubator Scrutiny)",
+    "days_left": 67,
+    "verified_source": "Startup India Official Portal",
+    "official_url": "https://seedfund.startupindia.gov.in",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Moderate to High",
+    "est_completion_time": "60 mins",
+    "target_levels": [
+      "undergrad",
+      "final-year",
+      "postgrad",
+      "fresh-grad",
+      "professional",
+      "entrepreneur"
+    ],
+    "target_streams": [
+      "all",
+      "business",
+      "arts",
+      "commerce",
+      "engineering",
+      "science",
+      "design"
+    ],
+    "target_roles": [
+      "entrepreneur",
+      "fresh-grad",
+      "professional"
+    ],
+    "target_interests": [
+      "startups",
+      "business",
+      "technology",
+      "social-impact",
+      "design"
+    ],
+    "target_skills": [
+      "problem-solving",
+      "leadership",
+      "finance",
+      "marketing-outreach",
+      "strategy"
+    ],
+    "summary": "Flagship government financial support empowering early-stage founders and aspiring entrepreneurs (college innovators, grads, professionals) to validate prototypes and launch viable startups.",
+    "eligibility_criteria": [
+      {
+        "id": "sisfs_c1",
+        "text": "DPIIT-recognized startup incorporated not more than 2 years ago, OR an applicant team with an innovative product/service concept.",
+        "simple_en": "You have an innovative business concept or early prototype addressing a commercial or social challenge."
+      },
+      {
+        "id": "sisfs_c2",
+        "text": "Open to founders across sectors: Agri-tech, Education, Retail, Health, Clean energy, Handicrafts, Waste management, AI/Software.",
+        "simple_en": "You do NOT need a pure tech startup; traditional innovation, agro-business, creative arts, and services qualify."
+      },
+      {
+        "id": "sisfs_c3",
+        "text": "Indian founders holding minimum 51% shareholding at the time of application.",
+        "simple_en": "Majority Indian ownership in the founding team."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "sisfs_d1",
+        "name": "Pitch Deck & Problem-Solution Note (PDF max 10 slides)",
+        "issuer": "Founder prepared",
+        "format": "PDF presentation",
+        "tips": "Clearly show target market size, unit economics, prototype status, and planned fund usage.",
+        "urgent": true
+      },
+      {
+        "id": "sisfs_d2",
+        "name": "DPIIT Certificate or Incorporation Proof (if registered)",
+        "issuer": "Ministry of Corporate Affairs / Startup India",
+        "format": "Digital Certificate PDF",
+        "tips": "DPIIT recognition is 100% free and takes 48 hours on startupindia.gov.in.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can non-technical students or traditional businesses apply?",
+        "a": "Yes! The seed fund actively supports waste management, textile & handicrafts, food processing, logistics, and social ventures, not just software apps."
+      }
+    ]
+  },
+  {
+    "id": "hdfc-parivartan-scholarship",
+    "title": "HDFC Bank Parivartan's ECSS Programme for School, College & Professional Studies",
+    "category": "Scholarship",
+    "sector": "Private / Corporate CSR",
+    "mode": "Remote / Online Application",
+    "funding_type": "Paid Grant (Up to ₹75,000 per year)",
+    "provider": "HDFC Bank CSR Parivartan",
+    "award_summary": "Up to ₹75,000 financial assistance for tuition, books, and living expenses",
+    "deadline": "2026-11-25",
+    "deadline_display": "November 25, 2026",
+    "days_left": 31,
+    "verified_source": "HDFC Bank Parivartan CSR Portal",
+    "official_url": "https://www.hdfcbank.com/personal/about-us/corporate-social-responsibility",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Easy to Moderate",
+    "est_completion_time": "35 mins",
+    "target_levels": [
+      "high-school",
+      "1st-year",
+      "undergrad",
+      "postgrad",
+      "diploma"
+    ],
+    "target_streams": [
+      "all",
+      "arts",
+      "commerce",
+      "science",
+      "engineering",
+      "law"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad"
+    ],
+    "target_interests": [
+      "humanities",
+      "business",
+      "science",
+      "social-impact"
+    ],
+    "target_skills": [
+      "writing",
+      "problem-solving"
+    ],
+    "summary": "Large-scale private CSR scholarship helping meritorious students from economically challenged backgrounds pursuing general graduation (B.Com, BA, B.Sc), professional courses, or polytechnic diplomas.",
+    "eligibility_criteria": [
+      {
+        "id": "hdfc_c1",
+        "text": "Currently pursuing School (Class 1 to 12), Diploma, General UG/PG (B.Com, B.Sc, BA, BCA, MA, M.Com) or Professional courses.",
+        "simple_en": "Open to all regular college courses including Arts, Commerce, Science, and Diploma."
+      },
+      {
+        "id": "hdfc_c2",
+        "text": "Must have scored at least 55% marks in the previous qualifying examination.",
+        "simple_en": "You need minimum 55% aggregate in your previous year."
+      },
+      {
+        "id": "hdfc_c3",
+        "text": "Annual family income must be less than or equal to ₹2,50,000.",
+        "simple_en": "Priority is strictly given to families facing financial crisis or low income."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "hdfc_d1",
+        "name": "Previous Year Marksheet",
+        "issuer": "College or School Board",
+        "format": "Scanned PDF or DigiLocker copy",
+        "tips": "Marksheet must clearly state total marks and result status.",
+        "urgent": true
+      },
+      {
+        "id": "hdfc_d2",
+        "name": "Current Year Admission / Fee Receipt",
+        "issuer": "College Accounts Office",
+        "format": "Official fee receipt showing student name and roll number",
+        "tips": "Bonafide student certificate is also accepted.",
+        "urgent": true
+      },
+      {
+        "id": "hdfc_d3",
+        "name": "Income Certificate / BPL Card / Ration Card",
+        "issuer": "Tahsildar / Village Panchayat / Revenue Inspector",
+        "format": "Valid Govt issued document",
+        "tips": "Ensure valid date within past 12 months.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can B.Com and BA students apply?",
+        "a": "Yes! HDFC ECSS has a dedicated track specifically reserved for General Graduation (B.Com, BA, B.Sc)."
+      }
+    ]
+  },
+  {
+    "id": "swayam-national-courses",
+    "title": "SWAYAM & NPTEL Free National Certifications (Arts, Commerce, Science, Tech)",
+    "category": "Course",
+    "sector": "Government / Ministry of Education",
+    "mode": "100% Online / Remote Learning",
+    "funding_type": "Free Education + Subsidized Exam Certification",
+    "provider": "Ministry of Education, Govt of India & Premier Central Universities",
+    "award_summary": "Free UGC-recognized Academic Credit Transfer + Verified Govt Certificate signed by IIM/IIT/Central University professors",
+    "deadline": "2026-11-30",
+    "deadline_display": "November 30, 2026 (Semester Registration)",
+    "days_left": 36,
+    "verified_source": "SWAYAM Central Portal",
+    "official_url": "https://swayam.gov.in",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Easy to Self-Paced",
+    "est_completion_time": "15 mins to enroll",
+    "target_levels": [
+      "high-school",
+      "1st-year",
+      "undergrad",
+      "postgrad",
+      "diploma",
+      "fresh-grad",
+      "professional",
+      "career-changer"
+    ],
+    "target_streams": [
+      "all",
+      "arts",
+      "commerce",
+      "science",
+      "law",
+      "business",
+      "engineering"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad",
+      "professional",
+      "entrepreneur"
+    ],
+    "target_interests": [
+      "humanities",
+      "business",
+      "technology",
+      "science",
+      "law",
+      "design"
+    ],
+    "target_skills": [
+      "writing",
+      "finance",
+      "legal-policy",
+      "data-analysis",
+      "coding",
+      "problem-solving"
+    ],
+    "summary": "India's official national online education portal offering 2,000+ free courses taught by IIMs, Central Universities, and National Law Schools across Humanities, Accounting, Corporate Law, AI, and Public Administration.",
+    "eligibility_criteria": [
+      {
+        "id": "sway_c1",
+        "text": "Open to anyone in India: students of all streams, teachers, working professionals, and lifelong learners.",
+        "simple_en": "Anyone can register for free regardless of educational background or age."
+      },
+      {
+        "id": "sway_c2",
+        "text": "100% free learning materials and video lectures.",
+        "simple_en": "You can watch all lectures, download readings, and submit weekly quizzes at zero cost."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "sway_d1",
+        "name": "Valid Email ID & Mobile Number",
+        "issuer": "Self",
+        "format": "Online registration",
+        "tips": "Use the same email linked to your college ABC (Academic Bank of Credits) ID for university grade transfers.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Are courses available in non-technical subjects like History, Commerce, and Law?",
+        "a": "Yes! SWAYAM offers hundreds of courses in Financial Accounting, Constitutional Law, Indian History, Psychology, Sociology, and Literature."
+      }
+    ]
+  },
+  {
+    "id": "deloitte-graduate-trainee",
+    "title": "Deloitte Graduate Trainee & Strategy Internship (Commerce, Arts & Tech)",
+    "category": "Internship",
+    "sector": "Private / Corporate",
+    "mode": "Hybrid (Bengaluru, Hyderabad, Mumbai, Delhi-NCR)",
+    "funding_type": "Paid Stipend (₹25,000 - ₹35,000 per month)",
+    "provider": "Deloitte India / USI",
+    "award_summary": "₹25,000 - ₹35,000/month stipend + Full-Time Job Placement Offer (PPO)",
+    "deadline": "2026-11-28",
+    "deadline_display": "November 28, 2026",
+    "days_left": 34,
+    "verified_source": "Deloitte Careers Campus Portal",
+    "official_url": "https://www2.deloitte.com/in/en/careers.html",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Moderate to Challenging",
+    "est_completion_time": "40 mins",
+    "target_levels": [
+      "final-year",
+      "postgrad",
+      "fresh-grad"
+    ],
+    "target_streams": [
+      "commerce",
+      "business",
+      "arts",
+      "engineering",
+      "science"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad"
+    ],
+    "target_interests": [
+      "business",
+      "finance",
+      "technology",
+      "strategy"
+    ],
+    "target_skills": [
+      "finance",
+      "writing",
+      "problem-solving",
+      "data-analysis",
+      "leadership"
+    ],
+    "summary": "Prestigious corporate internship and early-career track welcoming B.Com, BBA, BA Economics, and STEM graduates to work on consulting, financial advisory, and risk analysis.",
+    "eligibility_criteria": [
+      {
+        "id": "del_c1",
+        "text": "Pre-final or final year students in B.Com, BBA, BA (Economics/Stats), B.Sc, BCA, or B.Tech.",
+        "simple_en": "Open to Commerce, Business, Economics, and Tech students graduating in 2026 or 2027."
+      },
+      {
+        "id": "del_c2",
+        "text": "Minimum 60% or 6.0 CGPA throughout academic career with no active backlogs.",
+        "simple_en": "Consistent academic performance without pending backlogs."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "del_d1",
+        "name": "One-Page Professional Resume",
+        "issuer": "Created by you",
+        "format": "PDF under 1MB",
+        "tips": "Quantify your achievements (e.g. 'Organized fest with 400 attendees', 'Prepared financial ledger').",
+        "urgent": true
+      },
+      {
+        "id": "del_d2",
+        "name": "Semester Grade Sheets",
+        "issuer": "University",
+        "format": "Consolidated marksheet PDF",
+        "tips": "Ensure all semesters are included.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can B.Com and BBA students apply for Deloitte?",
+        "a": "Yes! Deloitte hires thousands of Commerce, Economics, and BBA graduates annually for Audit, Tax, and Financial Advisory roles."
+      }
+    ]
+  },
+  {
+    "id": "gsoc-mentorship-2026",
+    "title": "Google Summer of Code (GSoC) 2026 Mentorship",
+    "category": "Internship",
+    "sector": "Private / Open Source",
+    "mode": "100% Global Remote",
+    "funding_type": "Paid Stipend ($1,500 – $3,000 USD)",
+    "provider": "Google Open Source Programs",
+    "award_summary": "$1,500 – $3,000 USD Stipend + Global Industry Mentorship",
+    "deadline": "2026-04-10",
+    "deadline_display": "April 10, 2026",
+    "days_left": 168,
+    "verified_source": "Google Summer of Code Portal",
+    "official_url": "https://summerofcode.withgoogle.com",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Challenging",
+    "est_completion_time": "3–5 days to draft proposal",
+    "target_levels": [
+      "1st-year",
+      "undergrad",
+      "final-year",
+      "postgrad",
+      "fresh-grad",
+      "career-changer",
+      "professional"
+    ],
+    "target_streams": [
+      "all",
+      "engineering",
+      "science",
+      "design",
+      "humanities"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad",
+      "career-changer",
+      "professional"
+    ],
+    "target_interests": [
+      "technology",
+      "coding",
+      "open-source",
+      "writing"
+    ],
+    "target_skills": [
+      "coding",
+      "problem-solving",
+      "writing"
+    ],
+    "summary": "12-week global remote program where students, career changers, and developers contribute to open source organizations under expert 1-on-1 mentorship.",
+    "eligibility_criteria": [
+      {
+        "id": "gsoc_c1",
+        "text": "At least 18 years of age at the time of registration.",
+        "simple_en": "You must be 18 years old or older."
+      },
+      {
+        "id": "gsoc_c2",
+        "text": "Currently enrolled in higher education or a verified tech beginner / career changer.",
+        "simple_en": "Open to college students in any degree and people transitioning into software/open source."
+      },
+      {
+        "id": "gsoc_c3",
+        "text": "Submit a detailed project proposal to an accepted open source organization.",
+        "simple_en": "You select an open source project (e.g. Python, Blender, Mozilla, Wikipedia) and submit your plan of work."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "gsoc_d1",
+        "name": "Detailed Project Proposal (PDF)",
+        "issuer": "Written by you",
+        "format": "5–10 page PDF covering milestones and timeline",
+        "tips": "Discuss with mentors on IRC/Discord before submitting your final PDF.",
+        "urgent": true
+      },
+      {
+        "id": "gsoc_d2",
+        "name": "Proof of Student Enrollment or Contributor Eligibility",
+        "issuer": "College ID or self declaration",
+        "format": "Scanned copy showing validity",
+        "tips": "College Bonafide certificate or fee receipt works perfectly.",
+        "urgent": false
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do I need to be a Computer Science major?",
+        "a": "No! Students from any branch (Mechanical, Civil, Arts, Science) can apply if they know programming."
+      }
+    ]
+  },
+  {
+    "id": "sih-2026-hackathon",
+    "title": "Smart India Hackathon (SIH) 2026 — Student Hardware & Software Edition",
+    "category": "Competition",
+    "sector": "Government / AICTE",
+    "mode": "Hybrid (Regional Centers + Online)",
+    "funding_type": "Paid Cash Prize (₹1,00,000 per problem statement)",
+    "provider": "Ministry of Education (MoE) & AICTE",
+    "award_summary": "₹1,00,000 per winning problem statement + National recognition & incubation",
+    "deadline": "2026-10-31",
+    "deadline_display": "October 31, 2026",
+    "days_left": 6,
+    "verified_source": "Ministry of Education Innovation Cell Portal",
+    "official_url": "https://www.sih.gov.in",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Team Effort",
+    "est_completion_time": "2 hours team sync",
+    "target_levels": [
+      "1st-year",
+      "undergrad",
+      "final-year",
+      "postgrad",
+      "diploma"
+    ],
+    "target_streams": [
+      "all",
+      "engineering",
+      "science",
+      "design",
+      "business"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad"
+    ],
+    "target_interests": [
+      "technology",
+      "coding",
+      "social-impact",
+      "design",
+      "business"
+    ],
+    "target_skills": [
+      "coding",
+      "leadership",
+      "design",
+      "problem-solving"
+    ],
+    "summary": "Nationwide digital initiative where student teams solve pressing real-world challenges posed by Central Ministries, State Governments, and Industries.",
+    "eligibility_criteria": [
+      {
+        "id": "sih_c1",
+        "text": "Team must consist of exactly 6 student members from the same college.",
+        "simple_en": "Form a 6-member team. All members must study in the same college/institute."
+      },
+      {
+        "id": "sih_c2",
+        "text": "At least 1 female team member is strictly mandatory.",
+        "simple_en": "Your team must include at least one female teammate to qualify."
+      },
+      {
+        "id": "sih_c3",
+        "text": "Team nomination must be authorized by College Single Point of Contact (SPOC).",
+        "simple_en": "Your college principal or assigned hackathon faculty in-charge must approve your entry."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "sih_d1",
+        "name": "Idea Presentation Deck (PPT format max 5 slides)",
+        "issuer": "Team prepared",
+        "format": "Official SIH PPT Template",
+        "tips": "Include Problem statement ID, proposed solution architecture, tech stack, and feasibility.",
+        "urgent": true
+      },
+      {
+        "id": "sih_d2",
+        "name": "College SPOC Authorization Letter",
+        "issuer": "College Principal / Dean / Head of Institute",
+        "format": "Signed & stamped letterhead scan (PDF)",
+        "tips": "Download sample letter template from SIH portal and submit to college office 2 days prior.",
+        "urgent": true
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can teammates be from different departments?",
+        "a": "Yes! Interdisciplinary teams (e.g. CS + Electrical + Management) are encouraged."
+      }
+    ]
+  },
+  {
+    "id": "undp-youth-innovation-challenge",
+    "title": "UNDP & Youth Co:Lab Social Innovation Challenge",
+    "category": "Entrepreneurship & Grants",
+    "sector": "NGO / UN Foundation",
+    "mode": "Hybrid / Online Incubation",
+    "funding_type": "Paid Seed Grant ($5,000 Equity-Free)",
+    "provider": "United Nations Development Programme (UNDP) & Citi Foundation",
+    "award_summary": "$5,000 Equity-free Seed Grant + 6-month Incubation & UN Showcase",
+    "deadline": "2027-01-15",
+    "deadline_display": "January 15, 2027",
+    "days_left": 82,
+    "verified_source": "Youth Co:Lab Asia-Pacific Portal",
+    "official_url": "https://www.youthcolab.org",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Moderate",
+    "est_completion_time": "1–2 hours",
+    "target_levels": [
+      "undergrad",
+      "final-year",
+      "postgrad",
+      "fresh-grad",
+      "professional",
+      "entrepreneur"
+    ],
+    "target_streams": [
+      "all",
+      "arts",
+      "social-impact",
+      "business",
+      "science",
+      "design"
+    ],
+    "target_roles": [
+      "entrepreneur",
+      "student",
+      "fresh-grad",
+      "professional"
+    ],
+    "target_interests": [
+      "social-impact",
+      "business",
+      "science",
+      "design",
+      "humanities"
+    ],
+    "target_skills": [
+      "problem-solving",
+      "writing",
+      "leadership",
+      "marketing-outreach"
+    ],
+    "summary": "Asia-Pacific's largest youth social entrepreneurship challenge empowering college youth and young professionals to launch community solutions addressing UN Sustainable Development Goals (SDGs).",
+    "eligibility_criteria": [
+      {
+        "id": "undp_c1",
+        "text": "Founders must be aged between 18 and 30 years.",
+        "simple_en": "You must be a young adult aged 18 to 30."
+      },
+      {
+        "id": "undp_c2",
+        "text": "Project addresses an SDG (e.g. Climate, Clean Water, Quality Education, Poverty Reduction, Gender Equality).",
+        "simple_en": "Your idea must solve a real community or environmental problem."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "undp_d1",
+        "name": "Social Impact Concept Note (3-5 pages)",
+        "issuer": "Team or individual submission",
+        "format": "PDF document answering guided questions",
+        "tips": "Focus on the real beneficiary impact: Who benefits? How will you measure success?",
+        "urgent": true
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can solo students or non-tech ideas apply?",
+        "a": "Yes! Both individuals and teams can apply, and projects in education, recycling, healthcare, and community empowerment qualify."
+      }
+    ]
+  },
+  {
+    "id": "nmmss-scholarship-demo",
+    "title": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "category": "Scholarship",
+    "sector": "Government / Ministry of Education",
+    "mode": "Direct Bank Transfer (PFMS)",
+    "funding_type": "Paid Cash Transfer (₹12,000 per year)",
+    "provider": "Ministry of Education, Govt of India",
+    "award_summary": "₹12,000 per annum (Direct Bank Transfer via PFMS)",
+    "deadline": "2026-11-30",
+    "deadline_display": "November 30, 2026",
+    "days_left": 36,
+    "verified_source": "National Scholarship Portal (NSP)",
+    "official_url": "https://scholarships.gov.in",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Easy to Moderate",
+    "est_completion_time": "30 mins",
+    "target_levels": [
+      "high-school",
+      "1st-year",
+      "diploma"
+    ],
+    "target_streams": [
+      "all",
+      "arts",
+      "commerce",
+      "science"
+    ],
+    "target_roles": [
+      "student"
+    ],
+    "target_interests": [
+      "social-impact",
+      "science",
+      "business",
+      "humanities"
+    ],
+    "target_skills": [
+      "writing"
+    ],
+    "summary": "Central Sector scholarship scheme aimed at curbing dropouts from economically weaker sections by providing recurring cash grants directly to student bank accounts.",
+    "eligibility_criteria": [
+      {
+        "id": "nmm_c1",
+        "text": "Parental income from all sources not exceeding ₹3,50,000 per annum.",
+        "simple_en": "Your total family income must be ₹3.5 Lakhs or less per year."
+      },
+      {
+        "id": "nmm_c2",
+        "text": "Enrolled in a recognized government, local body, or government-aided institution.",
+        "simple_en": "Students of govt or aided schools/junior colleges are eligible."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "nmm_d1",
+        "name": "Income Certificate from Revenue Authority",
+        "issuer": "MRO / Tahsildar / Revenue Department",
+        "format": "Original digital certificate PDF",
+        "tips": "Apply early at e-District / CSC / MeeSeva / Taluk office in your state as it takes 3-7 days to receive.",
+        "urgent": true
+      },
+      {
+        "id": "nmm_d2",
+        "name": "Bonafide Student Certificate",
+        "issuer": "Head of School / College Principal",
+        "format": "Signed institute verification form",
+        "tips": "Generate the bonafide form from NSP portal and get principal's seal.",
+        "urgent": true
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What if my bank account is in my parent's name?",
+        "a": "No, the DBT system strictly requires the bank account to be in the student's own name."
+      }
+    ]
+  },
+  {
+    "id": "isro-iirs-gis-course",
+    "title": "ISRO / IIRS Outreach Certification in Remote Sensing & GIS",
+    "category": "Course",
+    "sector": "Government / Space Research",
+    "mode": "100% Online / EDUSAT",
+    "funding_type": "Free Govt Certification + E-Credits",
+    "provider": "Indian Space Research Organisation (ISRO)",
+    "award_summary": "Free Official ISRO Certificate with Grade Sheet + Live Lectures",
+    "deadline": "2026-11-15",
+    "deadline_display": "November 15, 2026",
+    "days_left": 21,
+    "verified_source": "IIRS EDUSAT Distance Learning Portal",
+    "official_url": "https://www.iirs.gov.in/edusat-news",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Easy",
+    "est_completion_time": "15 mins to enroll",
+    "target_levels": [
+      "1st-year",
+      "undergrad",
+      "final-year",
+      "postgrad",
+      "diploma",
+      "professional"
+    ],
+    "target_streams": [
+      "all",
+      "science",
+      "engineering",
+      "humanities",
+      "geography"
+    ],
+    "target_roles": [
+      "student",
+      "fresh-grad",
+      "professional"
+    ],
+    "target_interests": [
+      "science",
+      "technology",
+      "research",
+      "geography"
+    ],
+    "target_skills": [
+      "data-analysis",
+      "problem-solving"
+    ],
+    "summary": "Premier free government distance learning program by ISRO scientists covering satellite data analysis, environmental mapping, and earth observation technologies.",
+    "eligibility_criteria": [
+      {
+        "id": "isro_c1",
+        "text": "Undergraduate, postgraduate students, or researchers/professionals in any recognized institution.",
+        "simple_en": "Any student or professional interested in satellite mapping or earth sciences."
+      },
+      {
+        "id": "isro_c2",
+        "text": "Must maintain minimum 70% live attendance or session views.",
+        "simple_en": "Watch online lecture streams on YouTube or IIRS e-class portal to qualify for certificate."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "isro_d1",
+        "name": "Student / Professional ID Card Scan",
+        "issuer": "Your college / university / workplace",
+        "format": "JPG/PDF under 1MB",
+        "tips": "Color photo of your ID showing current validity.",
+        "urgent": true
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can Geography, Environmental Science, or BA students apply?",
+        "a": "Yes! Remote Sensing and GIS applications are widely used in Geography, Urban Planning, and Social Surveys."
+      }
+    ]
+  },
+  {
+    "id": "tata-trusts-higher-edu-grant",
+    "title": "Tata Trusts Higher Education Grant (Medical, Law, Engg & Commerce)",
+    "category": "Scholarship",
+    "sector": "Private / NGO Foundation",
+    "mode": "Remote / Online Application",
+    "funding_type": "Tuition Fee Waiver (Up to 50% Tuition Fees)",
+    "provider": "Tata Trusts",
+    "award_summary": "Up to 50% Tuition Fee Waiver (Average ₹40,000 – ₹80,000 grant)",
+    "deadline": "2026-12-10",
+    "deadline_display": "December 10, 2026",
+    "days_left": 46,
+    "verified_source": "Tata Trusts Official Education Grants Page",
+    "official_url": "https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Moderate",
+    "est_completion_time": "40 mins",
+    "target_levels": [
+      "undergrad",
+      "final-year",
+      "postgrad"
+    ],
+    "target_streams": [
+      "all",
+      "science",
+      "engineering",
+      "law",
+      "commerce",
+      "medical"
+    ],
+    "target_roles": [
+      "student"
+    ],
+    "target_interests": [
+      "science",
+      "technology",
+      "research",
+      "law",
+      "business"
+    ],
+    "target_skills": [
+      "problem-solving",
+      "finance",
+      "legal-policy"
+    ],
+    "summary": "Need-based financial grant by one of India's oldest philanthropic trusts assisting meritorious students pursuing Medical, Engineering, Law, and Commerce degrees in India.",
+    "eligibility_criteria": [
+      {
+        "id": "tata_c1",
+        "text": "Currently in 2nd year onwards of recognized Bachelor's or Master's degrees (Engg, Medical, Law, Commerce).",
+        "simple_en": "You must already have completed your 1st year with clear pass marks."
+      },
+      {
+        "id": "tata_c2",
+        "text": "Scored at least 70% in previous academic year semester exams.",
+        "simple_en": "Your overall CGPA should be at least 7.0 / 10 or 70%."
+      },
+      {
+        "id": "tata_c3",
+        "text": "Family annual income below ₹6,00,000.",
+        "simple_en": "Family income must be verified through official salary slips or revenue certificate."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "tata_d1",
+        "name": "All Semester Marksheets / Grade Cards",
+        "issuer": "University Examination Authority",
+        "format": "Attested PDF copies",
+        "tips": "Provisional marksheets stamped by your college HOD are accepted.",
+        "urgent": true
+      },
+      {
+        "id": "tata_d2",
+        "name": "Current Academic Year College Fee Receipt",
+        "issuer": "College Accounts Section",
+        "format": "Official stamped receipt showing paid/pending tuition fees",
+        "tips": "Must clearly itemize tuition fee separate from hostel or transport charges.",
+        "urgent": true
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can Law or Commerce students apply for Tata Trusts?",
+        "a": "Yes! Tata Trusts provides individual education grants for professional streams including LLB/LLM, Chartered Accountancy (CA), and MBA in addition to Engineering/Medical."
+      }
+    ]
+  },
+  {
+    "id": "mlsa-campus-ambassador",
+    "title": "Microsoft Learn Student Ambassadors (MLSA) Track",
+    "category": "Internship",
+    "sector": "Private / Corporate",
+    "mode": "100% Remote / Campus Hybrid",
+    "funding_type": "Free Azure Credits ($150/mo) + LinkedIn Learning + Mentorship",
+    "provider": "Microsoft Education",
+    "award_summary": "$150/mo Azure Cloud Credits + LinkedIn Learning + Global Mentorship",
+    "deadline": "2026-12-31",
+    "deadline_display": "Rolling (Quarterly Review - Dec 31, 2026)",
+    "days_left": 67,
+    "verified_source": "Microsoft Student Hub Official",
+    "official_url": "https://studentambassadors.microsoft.com",
+    "is_verified_demo": true,
+    "verification_date": "October 2026",
+    "difficulty": "Easy to Moderate",
+    "est_completion_time": "30 mins",
+    "target_levels": [
+      "1st-year",
+      "undergrad",
+      "final-year",
+      "postgrad"
+    ],
+    "target_streams": [
+      "all",
+      "engineering",
+      "science",
+      "business",
+      "arts"
+    ],
+    "target_roles": [
+      "student"
+    ],
+    "target_interests": [
+      "technology",
+      "coding",
+      "leadership",
+      "design"
+    ],
+    "target_skills": [
+      "leadership",
+      "writing",
+      "coding"
+    ],
+    "summary": "Global community of campus student leaders passionate about technology, organizing workshops, and mentoring peers with direct access to Microsoft resources.",
+    "eligibility_criteria": [
+      {
+        "id": "mlsa_c1",
+        "text": "Enrolled in an accredited academic institution.",
+        "simple_en": "You must be currently studying in college or university."
+      },
+      {
+        "id": "mlsa_c2",
+        "text": "Passion for technology and building student peer communities.",
+        "simple_en": "You enjoy helping classmates learn tech, organizing study groups or coding clubs."
+      }
+    ],
+    "required_documents": [
+      {
+        "id": "mlsa_d1",
+        "name": "Short Video URL (YouTube unlisted / OneDrive link)",
+        "issuer": "Created by you",
+        "format": "URL link to video under 2 minutes",
+        "tips": "No fancy editing needed! Just good lighting, clear audio, and genuine enthusiasm.",
+        "urgent": true
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do I need prior professional experience?",
+        "a": "No! Microsoft looks for curiosity, communication skills, and willingness to help others learn."
+      }
+    ]
+  }
+]
